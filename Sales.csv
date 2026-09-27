@@ -1,0 +1,20 @@
+﻿,,,,,,SALES DATA ANALYSIS REPORT,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Total Sales,,Total Orders,,Total Quantity,,Average Sale,,,,
+30649600,,500,,30649600,,61299.2,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+CITY-WISE SALES,,,SALESPERSON-WISE SALES,,,CATEGORY-WISE SALES,,,,
+,,,,,,,,,,
+City,Total Sales,,Sales Person , Total_Sales,,,,,Category, Total_Sales
+Aurangabad,1113700,,Amit,5801900,,,,,Accessories,2654600
+Bhopal,1756200,,Neha,5375400,,,,,Electronics,27995000
+Delhi,2038000,,Priya,4760400,,,,,Formula1,
+Indore,6132400,,Rahul,5420600,,,,,Grand Total,30649600
+Mumbai,4738400,,Sneha,5164500,,,,,,
+Nagpur,5038900,,Vikas,4126800,,,,,,
+Nashik,3276600,,Grand Total,30649600,,,,,,
+Pune,3876700,,,,,,,,,
+Thane,2678700,,,,,,,,,
+Grand Total,30649600,,,,,,,,,
